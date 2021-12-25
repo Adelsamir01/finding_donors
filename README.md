@@ -2,6 +2,8 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+This project implementation is a part of Machine Learning Nanodegree from Udacity.
+
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
@@ -13,7 +15,6 @@ This project requires **Python 3.x** and the following Python libraries installe
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
-We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
 
 ### Code
 
@@ -52,10 +53,3 @@ The modified census dataset consists of approximately 32,000 data points, with e
 - `hours-per-week`: Average Hours Per Week Worked
 - `native-country`: Native Country (United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands)
 
-**Target Variable**
-- `income`: Income Class (<=50K, >50K)
-# finding_donors
-# finding_donors
-# finding_donors
-# finding_donors
-# finding_donors
